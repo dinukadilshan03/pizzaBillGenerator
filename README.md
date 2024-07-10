@@ -1,1 +1,1 @@
-simple pizzaBill Generator using java
+simple pizza bill generator using java
